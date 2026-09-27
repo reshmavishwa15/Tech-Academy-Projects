@@ -1,0 +1,20 @@
+Table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th{
+   background-color: darkblue;
+   color: white;
+}
+
+td {
+    background-color: lightblue
+    color: black;
+}
+
+td:hover {
+    background-color: yellow;
+    color: red;
+}
+
